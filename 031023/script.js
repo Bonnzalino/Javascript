@@ -60,8 +60,14 @@
 
 //Converting Numbers to strings
 
-let x = 123;
-console.log(typeof x);
-x = "me";
-console.log(x);
-console.log(typeof x);
+// let x = 123;
+// console.log(typeof x);
+// x = "me";
+// console.log(x);
+// console.log(typeof x);
+
+// Swapping 2 variables
+let a ='Apple', b = 'Banana';
+console.log(a,b);
+[a, b] = [b, a];
+console.log(a, b);
