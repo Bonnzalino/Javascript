@@ -1,0 +1,1 @@
+//Write a function that takes an array of objects, where each object represents a student and has a "name" and "grade" property, and returns the names of the students who have a grade of "A".

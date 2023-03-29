@@ -6,8 +6,11 @@
 //     if (i % 2 !== 0) console.log('I am odd ' + i);
 // }
 
-for (let i = 0; i < 5; i++){
-    console.log(i);
-    for (let j = 0; j < 3; j++)
-    console.log('Hello World ' + j);
-}
+// for (let i = 0; i < 5; i++){   
+//     console.log(i);         ///<<<<<<<<<<<<<< Loop <<<<<<<<<<<<<<<<<
+//     for (let j = 0; j < 3; j++)
+//     console.log('Hello World ' + j);
+// }
+
+
+

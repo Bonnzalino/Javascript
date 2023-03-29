@@ -1,0 +1,1 @@
+//Write a function that takes an array of numbers as an argument and returns the highest and lowest numbers in the array as an object with two properties: "highest" and "lowest".

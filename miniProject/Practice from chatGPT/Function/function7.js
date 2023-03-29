@@ -1,0 +1,1 @@
+//Write a function that takes an array of numbers as an argument and returns a new array with only the even numbers.

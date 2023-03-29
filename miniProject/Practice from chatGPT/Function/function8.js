@@ -1,0 +1,1 @@
+//Write a function that takes an array of strings as an argument and returns a new array with the first letter of each string capitalized.

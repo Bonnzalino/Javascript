@@ -1,0 +1,1 @@
+//Write a function that takes a string as an argument and returns the number of vowels in the string.
